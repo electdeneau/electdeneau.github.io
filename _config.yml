@@ -18,7 +18,7 @@
 
 ## Technical site info
 #baseurl: "" # This is better empty
-subpath: "/smith-for-congress" # Could be a subsite of a domain at a path, ex. "/sub-site"
+#subpath: "/smith-for-congress" # Could be a subsite of a domain at a path, ex. "/sub-site"
 #google_analytics: UA-697953-3 # The UA- code provided by GA
 
 ## The option below lets you choose between having Jekyll process and minify your CSS and JS (good enough), or adding a
@@ -33,9 +33,9 @@ filament_load_css: "false" # Use the https://www.filamentgroup.com/lab/load-css-
 #content_security_policy: "default-src 'self'; script-src 'self' 'unsafe-inline'"
 
 ## Basic site info
-title: "Jane Smith for Congress"
+title: "Elect Jason Michael Deneau for School Board"
 primary_author: "Lower Barriers" # This is shown in the copyright statement in the footer of the site.
-shortname: smithcon
+shortname: deneau
 tagline: "Representing West Dakota's 33rd District"
 
 ## Site and contact bits
