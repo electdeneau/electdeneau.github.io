@@ -1,6 +1,13 @@
+[Linked issue](https://github.com/owner/project/issues/1)
 
-Please include the following:
+## What this PR does
 
-  * If this PR applies to a particular issue, please reference the issue by number (typing `#` will show issues)
-  * Describe in more detail than you had expected exactly what your pull request does
-  * Give just a little more detail before submitting :-)
+  1. First thing
+
+## How to test it
+
+Assuming a usual local installation of the application:
+
+- [ ] First test step
+
+Additional notes here.

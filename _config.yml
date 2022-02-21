@@ -33,43 +33,38 @@ filament_load_css: "false" # Use the https://www.filamentgroup.com/lab/load-css-
 #content_security_policy: "default-src 'self'; script-src 'self' 'unsafe-inline'"
 
 ## Basic site info
-title: "Elect Jason Michael Deneau for School Board"
-primary_author: "Lower Barriers" # This is shown in the copyright statement in the footer of the site.
+title: "Jason Deneau for Berkley School Board"
+primary_author: "Jason Deneau" # This is shown in the copyright statement in the footer of the site.
 shortname: deneau
-tagline: "Representing West Dakota's 33rd District"
+tagline: "Berkley School Board"
 
 ## Site and contact bits
-email: helper@lowerbarriers.org
+email: electdeneau@gmail.com
 #fax:
 #  display: "(248) 555-0123" # Fax number as displayed
 #  mailto: "12485550213" # Fex number with country code for the link
 locations:
-  - name: "Lower Barriers"
-    street_address: "1428 Mark Ave"
-    locality: Lincoln Park
+  - name: "Jason M Deneau"
+    street_address: "14301 Hart St"
+    locality: Oak Park
     region: MI
-    postal_code: "48146"
+    postal_code: "48237"
     country_name: USA
 phone:
-  display: "(313) 649-7359" # Phone number as displayed
-  mailto: "13136497359" # Phone number with country code for the link
+  display: "(248) 629-0404" # Phone number as displayed
+  mailto: "12486290404" # Phone number with country code for the link
 
 ## Social links
 ## Find icons in _includes/icons/[library]/[symbol].svg
 ## The _includes/icons/simple-icons library has all the social ones.
 social:
   - title: Facebook
-    url: https://www.facebook.com/lowerbarriers
+    url: https://www.facebook.com/ElectDeneau
     icon:
       library: simple-icons
       symbol: facebook
-  - title: Twitter
-    url: https://twitter.com/lowerbarriers
-    icon:
-      library: simple-icons
-      symbol: twitter
   - title: GitHub
-    url: https://github.com/lowerbarriers/smith-for-congress
+    url: https://github.com/electdeneau/electdeneau.github.io
     icon:
       library: simple-icons
       symbol: github
@@ -79,7 +74,7 @@ social:
 press:
   name: "Brad Czerniak"
   job_title: "Webmaster"
-  email: "helper@lowerbarriers.org"
+  email: "brad@solveitonce.com"
   phone:
     display: "(313) 649-7359" # Phone number as displayed
     mailto: "13136497359" # Phone number with country code for the link
@@ -92,7 +87,7 @@ html:
 
 ## Standard <meta> tags for SEO, etc.
 meta:
-  description: "Jane Smith is your next congressperson."
+  description: "Elect Jason M Deneau for Berkley School Board."
   generator: "[Jekyll](https://github.com/mojombo/jekyll)"
   image:
     alt: "Site default social image" # It's okay for this to be an empty string if the image is decorative
@@ -130,7 +125,7 @@ twitter:
 ## @see https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest_webmanifest:
   background_color: "#fff"
-  theme_color: "#61009e"
+  theme_color: "#264216"
 
 ## JAMstack form handler globals
 ## @see https://css-tricks.com/a-comparison-of-static-form-providers/

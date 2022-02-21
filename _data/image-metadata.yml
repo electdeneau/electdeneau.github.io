@@ -36,7 +36,7 @@ images:
     height: 631
     width: 1200
   - path: 'in-css/hero-home.jpg'
-    height: 972
+    height: 1062
     width: 1920
   - path: 'in-css/eric-prouzet-tD49mqo7sjE-unsplash.jpg.webp'
     height: 1278
@@ -45,7 +45,7 @@ images:
     height: 1278
     width: 1920
   - path: 'in-css/hero-home.jpg.webp'
-    height: 972
+    height: 1062
     width: 1920
   - path: 'required/tile.png'
     height: 558
@@ -72,8 +72,8 @@ images:
     height: 630
     width: 1200
   - path: 'required/s.webp'
-    height: 446
-    width: 11330
+    height: 
+    width: 
   - path: 'required/tile-wide.png'
     height: 270
     width: 558
@@ -90,8 +90,8 @@ images:
     height: 630
     width: 1200
   - path: 'required/logo.png.webp'
-    height: 73
-    width: 73
+    height: 308
+    width: 1440
   - path: 'required/meta-image--default.jpg'
     height: 630
     width: 1200
@@ -108,8 +108,8 @@ images:
     height: 1
     width: 1
   - path: 'required/logo.png'
-    height: 73
-    width: 73
+    height: 308
+    width: 1440
   - path: 'undraw_welcome_3gvl.png.webp'
     height: 891
     width: 1108
