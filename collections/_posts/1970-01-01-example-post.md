@@ -9,7 +9,7 @@ meta:
 #  image:
 #    alt: "Default social image" # It's okay for this to be empty if the image is decorative
 #    src: required/meta-image--default.jpg
-#  robots: "index,follow"
+  robots: "noindex,follow"
 #  title: "Overrides the tab title and social titles"
 #permalink: /blog/post-title/
 #published: true

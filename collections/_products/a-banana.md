@@ -9,7 +9,7 @@ meta:
   image:
     alt: "Stylish banana"
     src: 1200x630/banana.jpg
-#  robots: "index,follow"
+  robots: "noindex,follow"
 #  title: "Overrides the tab title and social titles"
 #permalink: /event/YYYY/MM/title/
 price: "82.99"

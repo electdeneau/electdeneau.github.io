@@ -28,7 +28,7 @@ if (browser_supports_webp()) {
  * @file
  * Load the service worker script at the site root.
  */
-if ("serviceWorker" in navigator) {
+if ("serviceWorker" in navigator && false) {
   navigator.serviceWorker.register("{{ site.subpath }}/service-worker.js");
 }
 

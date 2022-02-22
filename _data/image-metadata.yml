@@ -11,6 +11,9 @@ images:
   - path: '1200x630/banana.jpg.webp'
     height: 630
     width: 1200
+  - path: '1200x630/jason-deneau.jpg'
+    height: 630
+    width: 1200
   - path: '1200x630/cytonn-photography-n95VMLxqM2I-unsplash.jpg.webp'
     height: 630
     width: 1200
@@ -34,6 +37,9 @@ images:
     width: 1200
   - path: '1200x630/noaa-aySTZ82UGus-unsplash.jpg.webp'
     height: 631
+    width: 1200
+  - path: '1200x630/jason-deneau.jpg.webp'
+    height: 630
     width: 1200
   - path: 'in-css/hero-home.jpg'
     height: 1062

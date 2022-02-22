@@ -17,7 +17,7 @@ meta:
 #  image:
 #    alt: "Generic camping scene"
 #    src: 1200x630/camping.jpg
-#  robots: "index,follow"
+  robots: "noindex,follow"
 #  title: "Overrides the tab title and social titles"
 #permalink: /event/YYYY/MM/title/
 #published: true

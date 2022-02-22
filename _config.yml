@@ -34,7 +34,7 @@ filament_load_css: "false" # Use the https://www.filamentgroup.com/lab/load-css-
 
 ## Basic site info
 title: "Jason Deneau for Berkley School Board"
-primary_author: "Jason Deneau" # This is shown in the copyright statement in the footer of the site.
+primary_author: "the Committee to elect Jason M Deneau" # This is shown in the copyright statement in the footer of the site.
 shortname: deneau
 tagline: "Berkley School Board"
 

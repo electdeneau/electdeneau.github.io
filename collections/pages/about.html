@@ -10,10 +10,10 @@ menus:
   main: 4
 #  utility: 1
 meta:
-  description: "Who, what, when, where, why, and how."
+  description: "Get to know Jason and what he stands for."
   image:
-    alt: "Shifting the synergy paradigm" # It's okay for this to be empty if the image is decorative
-    src: 1200x630/cytonn-photography-n95VMLxqM2I-unsplash.jpg
+    alt: "Image for sharing socially that you support Jason Deneau"
+    src: required/meta-image--default.jpg
 #  robots: "index,follow"
 #  title: "Overrides the tab title and social titles"
 permalink: /about/
@@ -21,17 +21,16 @@ permalink: /about/
 #schema:
 #  type: "Thing"
 sections:
-  - "freshness"
-  - "mailchimp"
+  - cta
 #sitemap: true
 #tags: ["three", "four"]
-title: "About"
+title: "About Jason"
 ---
 
 <section class="layout--stripe background-color--white">
   <div class="layout--stripe--inner">
     {% include atoms/heading.html
-      children="Our story"
+      children="Biography"
       classes=" heading--h1 text-align--center"
       level="2"
     %}
@@ -61,8 +60,8 @@ title: "About"
       <aside class="layout--column flex--1 display--flex flex-direction--column justify-content--center
         padding-horizontal--4 padding-horizontal--collapse">
         {% include atoms/image.html
-          src="undraw_welcome_3gvl.png"
-          alt="Welcome to our story"
+          src="1200x630/jason-deneau.jpg"
+          alt="Jason smiling"
           classes=""
         %}
       </aside>
@@ -74,7 +73,7 @@ title: "About"
 <section class="layout--stripe background-color--second-light background-image--hero-standout background-size--cover">
   <div class="layout--stripe--inner">
     {% include atoms/heading.html
-    children="How we stand out"
+    children="What we stand for"
     classes=" heading--h1 text-align--center"
     level="2"
     %}
@@ -106,57 +105,6 @@ title: "About"
         </blockquote>
 
         <p class="font-size--p875em text-align--right"><cite>- Guy Founderson, <i>founder</i></cite></p>
-      </aside>
-    </div>
-  </div>
-</section>
-
-{% include organisms/section.html
-  mode="ref"
-  slug="people"
-%}
-
-<section class="layout--stripe background-color--main-dark color--white background-image--gradient--main">
-  <div class="layout--stripe--inner">
-    {% include atoms/heading.html
-      children="Global reach"
-      classes=" heading--h1 text-align--center"
-      level="2"
-    %}
-
-    {% include atoms/spacer.html size="4" %}
-
-    <div class="layout--row display--flex">
-      <aside class="layout--column flex--1 display--flex flex-direction--column justify-content--center">
-        <p>
-          Now that you've covered the other "W's", let's talk about the <em>where</em>. We can verbalize where we're from,
-          yes, but can also do two tricks to demonstrate our mastery of the globe.
-        </p>
-
-        <p>This first is to list where you have offices, remote workers, random P.O. boxes, etc.:</p>
-
-        <ul>
-          <li>Detroit, MI, USA</li>
-          <li>Santa Barbara, CA, USA</li>
-        </ul>
-
-        <p>...and the second is to show all the places where you've had an effect, like where your customers are, where
-          you've held events, where you've traveled on business, etc.:
-        </p>
-
-        <ul>
-          <li>Louisville, KY, USA</li>
-          <li>Sydney, Australia</li>
-        </ul>
-      </aside>
-
-      <aside class="layout--column flex--1 display--flex flex-direction--column justify-content--flex-end
-        padding-horizontal--4 padding-horizontal--collapse">
-        {% include atoms/image.html
-          src="1200x630/noaa-aySTZ82UGus-unsplash.jpg"
-          alt=""
-          classes="box-shadow--lifted-edges"
-        %}
       </aside>
     </div>
   </div>
